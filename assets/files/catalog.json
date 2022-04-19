@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 12 Pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "iphone-12-pro.png"
+    },
+    {
+      "id": 2,
+      "name": "Pixel 5",
+      "desc": "Google Pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "pixel5.png"
+    },
+
+    {
+      "id": 3,
+      "name": "Airpods Pro",
+      "desc": "Apple Aipods Pro 1st generation",
+      "price": 200,
+      "color": "#e3e4e9",
+      "image": "airpod.png"
+    },
+    {
+      "id": 4,
+      "name": "iPad Pro",
+      "desc": "Apple iPad Pro 2020 edition",
+      "price": 799,
+      "color": "#f73984",
+      "image": "ipad.png"
+    },
+    {
+      "id": 5,
+      "name": "Galaxy S21 Ultra",
+      "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+      "price": 1299,
+      "color": "#1c1c1c",
+      "image": "s1.png"
+    },
+    {
+      "id": 6,
+      "name": "Galaxy S21",
+      "desc": "Samsung Galaxy S21 2021 edition",
+      "price": 899,
+      "color": "#7c95eb",
+      "image": "s21.png"
+    },
+    {
+      "id": 7,
+      "name": "iPhone 11 pro",
+      "desc": "Apple iPhone 11th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "iphone11.png"
+    },
+    {
+      "id": 8,
+      "name": "Pixel 4",
+      "desc": "Google pixel phone 4th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "pixel4.png"
+    },
+    {
+      "id": 9,
+      "name": "m1 macbook air",
+      "desc": "Apple Macbook air with apple silicon",
+      "price": 1099,
+      "color": "#e0bfae",
+      "image": "m1.png"
+    },
+
+    {
+      "id": 10,
+      "name": "Pixel 5",
+      "desc": "Google pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": "pixel3.png"
+    },
+    {
+      "id": 11,
+      "name": "m1 macbook air",
+      "desc": "Apple Macbook air with apple silicon",
+      "price": 1099,
+      "color": "#e0bfae",
+      "image": "m1.png"
+    }
+  ]
+}

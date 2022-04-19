@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "johnkoder",
+      "name": "iPhone 12 pro",
+      "desc": "Apple iPhone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": ""
+    },
+    {
+      "id": "ayokoder",
+      "name": "Pixel 5",
+      "desc": "Google pixel phone 5th generation",
+      "price": 699,
+      "color": "#00ac51",
+      "image": ""
+    },
+    {
+      "id": "youngmodulous",
+      "name": "m1 macbook air",
+      "desc": "Apple Macbook air with apple silicon",
+      "price": 1099,
+      "color": "#e0bfae",
+      "image": ""
+    }
+  ]
+}
