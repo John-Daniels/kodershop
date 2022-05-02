@@ -39,13 +39,7 @@ class _LoginPageState extends State<LoginPage> {
                   const SizedBox(
                     height: 20,
                   ),
-                  Text(
-                    'welcome $name',
-                    style: const TextStyle(
-                      fontSize: 22,
-                      fontWeight: FontWeight.bold,
-                    ),
-                  ),
+                  'welcome $name'.text.bold.xl2.make(),
                   const SizedBox(
                     height: 20,
                   ),
