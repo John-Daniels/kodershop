@@ -1,5 +1,21 @@
 # kodershop
 
+## This app illustrates the power of velocityx
+
+> thanks to codepur
+
+![screenshot2](./showcase/screenshot2.png "kodershop")
+
+## workspace
+
+![screenshot5](./showcase/screenshot5.png "kodershop darkmode")
+
+![screenshot4](./showcase/screenshot4.png "kodershop darkmode")
+
+## Also available on deskop and web
+
+![screenshot3](./showcase/screenshot3.png "kodershop")
+
 A new Flutter project.
 
 ## Getting Started
